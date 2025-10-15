@@ -1,0 +1,33 @@
+.container{
+    margin: 34px;
+    width:250px ;
+    height: 340px;
+    background-color: rgb(57, 133, 133);
+    border: 2px solid rgb(74, 122, 122);;
+}
+.button{
+    width: 40px;
+    height: 45px;
+    border-radius: 10px;
+    border: 2px solid rgb(31, 114, 31);
+    padding: 5px;
+    margin:  0  4px;
+    color: aliceblue;
+    background: #000;
+}
+.class{
+ 
+    margin: 3px 19px;
+    padding: 4px;
+   
+}
+.monitor{
+    display: flex;
+   justify-content:  center;
+   height: 27px;
+   margin: 16px 0;
+   color: rgb(0, 0, 0);
+}
+.abc{
+    padding:17px 13px;
+}
